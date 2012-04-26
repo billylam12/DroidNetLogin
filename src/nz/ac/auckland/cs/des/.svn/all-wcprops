@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/UoA.EC/!svn/ver/2485/Authentication/libs/des-java/trunk/src/main/java/nz/ac/auckland/cs/des
+END
+des_encrypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/UoA.EC/!svn/ver/2485/Authentication/libs/des-java/trunk/src/main/java/nz/ac/auckland/cs/des/des_encrypt.java
+END
+betterArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/UoA.EC/!svn/ver/2485/Authentication/libs/des-java/trunk/src/main/java/nz/ac/auckland/cs/des/betterArrayOutputStream.java
+END
+desDataInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/UoA.EC/!svn/ver/2485/Authentication/libs/des-java/trunk/src/main/java/nz/ac/auckland/cs/des/desDataInputStream.java
+END
+des_hash_init.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/UoA.EC/!svn/ver/2485/Authentication/libs/des-java/trunk/src/main/java/nz/ac/auckland/cs/des/des_hash_init.java
+END
+desDataOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/UoA.EC/!svn/ver/2485/Authentication/libs/des-java/trunk/src/main/java/nz/ac/auckland/cs/des/desDataOutputStream.java
+END
+Key_schedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/UoA.EC/!svn/ver/2485/Authentication/libs/des-java/trunk/src/main/java/nz/ac/auckland/cs/des/Key_schedule.java
+END
+desArrayInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/UoA.EC/!svn/ver/2485/Authentication/libs/des-java/trunk/src/main/java/nz/ac/auckland/cs/des/desArrayInputStream.java
+END
+uHex.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/UoA.EC/!svn/ver/2485/Authentication/libs/des-java/trunk/src/main/java/nz/ac/auckland/cs/des/uHex.java
+END
+C_Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/UoA.EC/!svn/ver/2485/Authentication/libs/des-java/trunk/src/main/java/nz/ac/auckland/cs/des/C_Block.java
+END

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ <string-array name="entries_login_preference">
+     <item>"Don't save"</item>
+     <item>Save ID only</item>
+     <item>Save ID and password</item>
+  
+ </string-array>
+ <string-array name="entryvalues_login_preference">
+     <item >0</item><item >1</item><item >2</item>
+ </string-array>
+</resources>

@@ -1,0 +1,56 @@
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <ListPreference
+                android:key="login_preference"
+                android:title="@string/title_login_preference"
+                android:defaultValue="@string/default_login_preference"
+                android:entries="@array/entries_login_preference"
+                android:entryValues="@array/entryvalues_login_preference"
+                android:dialogTitle="@string/dialog_title_login_preference" />
+        
+         <CheckBoxPreference
+	         android:key="Auto_Reconnect"
+	         android:title="@string/title_auto_preference"
+	         android:defaultValue="false"
+	         android:summary="@string/summary_auto_preference"
+	         android:enabled="false" />
+
+
+        <PreferenceScreen android:title="Advanced Options" android:background="#ffffff">
+            <CheckBoxPreference
+		         android:key="debug_preference"
+		         android:title="@string/title_debug_preference"
+		         android:defaultValue="false"
+		         android:summary="@string/summary_debug_preference" />
+		
+	        <CheckBoxPreference
+	                android:key="proxy_preference"
+	                android:defaultValue="true"
+	                android:title="@string/title_proxy_preference"
+	                android:summary="@string/summary_proxy_preference" />
+			<PreferenceCategory android:title="Manual Controls">
+			    <Preference 
+	            android:key="manual_login"
+	            android:title="@string/title_manual_login" />
+	        
+		        <Preference 
+		            android:key="manual_logout"
+		            android:title="@string/title_manual_logout" />
+		        
+		        <Preference 
+		            android:key="manual_startProxy"
+		            android:title="@string/title_manual_startProxy" />
+		        
+		        <Preference 
+		            android:key="manual_stopProxy"
+		            android:title="@string/title_manual_stopProxy" />  
+			    
+			    </PreferenceCategory>
+
+        </PreferenceScreen>
+
+
+
+</PreferenceScreen>

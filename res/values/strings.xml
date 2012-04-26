@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DroidNetLogin</string>
+    <string name="SERVER">gate.ec.auckland.ac.nz</string>
+    <string name="IP_Usage">Usage: 0 MB</string>
+    <string name="Status">Status: Disconnected</string>
+    <string name="Status_C">Status: Connected</string>
+    <integer name="AUTH_PORT">312</integer>
+    <integer name="PINGD_PORT">443</integer>
+    <string name="app_id">nz.Intelx.DroidNetLogin</string>
+    <string name="new_fragment">New fragment</string><string name="title_login">Login</string><string name="title_options">Options</string>
+    <string name="title_debug_preference">Debug Mode</string>
+    <string name="summary_debug_preference">Allow login outside of UoA wifi for testing purposes</string>
+    <string name="title_proxy_preference">Enable Proxy</string>
+    <string name="summary_proxy_preference">Needed unless you use another proxy app</string>
+    <string name="title_login_preference">Save Login</string>
+    <string name="summary_login_preference">test</string>
+    <string name="dialog_title_login_preference">Login Save Options</string>
+    <string name="default_login_preference">1</string>
+    <string name="title_manual_login">Login</string><string name="title_manual_logout">Logout</string><string name="title_manual_startProxy">Start Proxy</string><string name="title_manual_stopProxy">Stop Proxy</string>
+    
+    <string name="title_about">About</string><string name="about_DroidNetLogin">DroidNetlogin is designed to provide high speed internet access on UOA Wifi.\n\nThe authentication functionality is based on the NetLogin client developed by the University of Auckland.\n\nTo support SOCKS proxy on Android, code from the Transproxy project is used.</string>
+    <string name="about_license">This project is released under the GNU General Public License. You can access the source code @ www.github.com/Intelx\n\nCopyright \u00A9 2012, Billy Lam </string>
+    <string name="title_auto_preference">Auto Reconnect</string>
+    <string name="summary_auto_preference">Coming soon!</string>
+    <string name="about_donate">If you find this app useful and want to support development please get the donate version from Google Play.</string>
+    
+</resources>

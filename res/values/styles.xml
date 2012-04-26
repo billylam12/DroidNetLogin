@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NotificationText">
+    </style>
+    <style name="NotificationTitle">
+      <item name="android:textStyle">bold</item>
+    </style>
+   	<style name="Actionbar_Tab" parent="@style/Theme.Sherlock.Light.DarkActionBar">
+    <!-- If you want to use the default ViewPagerIndicator-styles, use the following: -->
+    	<item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    	<item name="vpiTabTextStyle">@style/Widget.TabPageIndicator.Text</item>
+    	<item name="android:listViewStyle">@style/lightListView</item>
+	</style>
+	<style name="lightListView" parent="@android:style/Widget.ListView">
+	    <item name="android:background">@drawable/bg_striped_split</item>
+	    <item name="android:cacheColorHint">#00000000</item>
+	    <item name="android:divider">#CCCCCC</item>
+   		<item name="android:dividerHeight">1dp</item>
+	</style>
+
+</resources>
